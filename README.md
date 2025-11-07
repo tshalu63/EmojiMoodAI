@@ -1,4 +1,3 @@
-%%writefile README.md
 # 😄 EmojiMoodAI
 
 EmojiMoodAI is an interactive web app that predicts emojis matching the emotional tone of your text input!
